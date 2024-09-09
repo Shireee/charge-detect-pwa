@@ -1,14 +1,14 @@
 {
-  "name": "Shireee PWA",
-  "short_name": "Shireee PWA",
+  "name": "Charge detect PWA",
+  "short_name": "Charge detect PWA",
   "icons": [
     {
-      "src": "./icon.png",
+      "src": "./charge.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icon.png",
+      "src": "./charge.png",
       "sizes": "512x512",
       "type": "image/png"
     }
